@@ -7,9 +7,12 @@ It is a tiny example package
 npm install @shashank.map/tiny
 
 # usage
-const tiny = require("@bamblehorse/tiny");
 
 ```javascript
+
+import tiny from '@shashank.map/tiny';
+
+
 tiny("So much space!");
 //=> "Somuchspace!"
 
